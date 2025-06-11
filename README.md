@@ -1,4 +1,4 @@
-# TrevTroopa.github.io
+# Meet our Team!
 <html>
 <head>
   <title>Meet our Team!</title>
