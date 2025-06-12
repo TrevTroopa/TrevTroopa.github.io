@@ -5,8 +5,10 @@
    <br/>
    <br/>
    <h1><font face="Times new roman"><font color="black"><font size="6"><b>CEO:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Trevor Squire</i>
+   <p>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" align="right" height="250" width="200"/></p>
-   <br/>
+   The image will appear along here
+   </p>
    <h2><font face="Times new roman"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Joshua Ginste</i>
    <br/>
    <h3><font face="Times new roman"><font color="black"><font size="6"><b>Research and Development:
