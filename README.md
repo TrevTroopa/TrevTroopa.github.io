@@ -5,7 +5,7 @@
    <br/>
    <br/>
    <h1><font face="Roboto"><font color="black"><font size="6">CEO:<font face="Times new roman"><font color="black"><font size="5"><i>Gavin Harper</i>
-   <p><font color="FFFFFF"><........................................................><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
+   <p><font color="FFFFFF">.....................................................<img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
       <p><font face="Roboto"><font color="#333333">Gavin Harper is the current CEO of Eloheh company. After graduating from Purdue University, he lead his group of innovators to develop the next generational breakthrough in healthcare and technology. He wanted to make a brand that aimed to find the next big breakthroughs in technology that, not only would change the healthcare system for the better, but would also be accessible to everyone in need. Harper's biggest priorities for this company was compassion for its consumers, having innovative technology that could change healthcare forever, and making these products accessible for all. Harper gathered the best Purdue students he knew to help him make this dream a reality.
    <br/>
    <br/>
