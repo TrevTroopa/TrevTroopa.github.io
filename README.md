@@ -1,7 +1,7 @@
 # Meet our Team!
 <html>
 <head>
-   <p><font face="Times new roman"><font color="red"><font size="5"><i>Want to meet the team behind it all?
+   <p><font face="Times new roman"><font color="red"><font size="5"><i></i>Want to meet the team behind it all?
    <br/>
    <br/>
    <p><font face="Times new roman"><font color="black"><font size="6"><b>CEO:<font face="Times new roman"><font color="black"><font size="5">Trevor Squire
