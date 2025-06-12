@@ -7,7 +7,6 @@
    <h1><font face="Times new roman"><font color="black"><font size="6"><b>CEO:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Trevor Squire</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
    <br/>
-   <br/>
    <h2><font face="Times new roman"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Joshua Ginste</i>
    <br/>
    <br/>
@@ -21,5 +20,5 @@
    <br/>
    <br/>
    <h5><font face="Times new roman"><font color="black"><font size="6"><b>Marketing:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Angel Gatoto</i>
-   <h6><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="250" width="200"/>
+   <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="250" width="200"/></p>
 
