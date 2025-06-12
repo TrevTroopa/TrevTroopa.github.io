@@ -1,7 +1,7 @@
 # Meet our Team!
 <html>
 <head>
-   <p><font face="Times new roman"><font color="red"><font size="5"><i>Want to meet the team behind it all?
+   <p><font face="Times new roman"><font color="red"><font size="5"><i>Want to meet the team behind it all?</font>
    <br/>
    <br/>
    <p><font face="Times new roman"><font size="4"><b>CEO
