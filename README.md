@@ -1,8 +1,7 @@
 # Meet our Team!
 <html>
 <head>
-    <title>Meet our Team!<font color="#990000">Meet our Team!</font></title>
-        <font size=7>Meet our Team!</font>
+   <p><font face>Times new roman</font><font color="#00FFFF"></font>Want to meet the team behind it all?</p>
 </head>
 <body>
   <size>
