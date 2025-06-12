@@ -6,6 +6,7 @@
    <br/>
    <h1><font face="Roboto"><font color="black"><font size="6">CEO:<font face="Times new roman"><font color="black"><font size="5"><i>Trevor Squire</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
+      <p> align="top right of https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true">here it is</p>
    <br/>
    <br/>
    <h2><font face="Roboto"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Joshua Ginste</i>
