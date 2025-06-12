@@ -4,19 +4,19 @@
    <p><font face="Times new roman"><font color="red"><font size="5"><i>Want to meet the team behind it all?</i>
    <br/>
    <br/>
-   <h1><font face="Times new roman"><font color="black"><font size="6"><b>CEO:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Trevor Squire</i>
+   <h1><font face="Times new roman"><font color="black"><font size="6"><b>CEO:</b><font face="Times new roman"><font color="blue"><font size="5"><i>Trevor Squire</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
    <br/>
    <br/>
-   <h2><font face="Times new roman"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Joshua Ginste</i>
+   <h2><font face="Times new roman"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="5"><i>Joshua Ginste</i>
    <br/>
    <br/>
-   <h3><font face="Times new roman"><font color="black"><font size="6"><b>Research and Development:
+   <h3><font face="Times new roman"><font color="black"><font size="6"><b>Research and Development:</b><font face="Times new roman"><font color="blue"><font size="5"><i>Gavin Harper</i>
    <br/>
    <br/>
-   <h4><font face="Times new roman"><font color="black"><font size="6"><b>Engineering and Technology:
+   <h4><font face="Times new roman"><font color="black"><font size="6"><b>Engineering and Technology:</b><font face="Times new roman"><font color="blue"><font size="5"><i>Chase Hamdan</i>
    <br/>
    <br/>
-   <h5><font face="Times new roman"><font color="black"><font size="6"><b>Marketing:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Angel Gatoto</i>
+   <h5><font face="Times new roman"><font color="black"><font size="6"><b>Marketing:</b><font face="Times new roman"><font color="blue"><font size="5"><i>Angel Gatoto</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="250" width="200"/></p>
 
