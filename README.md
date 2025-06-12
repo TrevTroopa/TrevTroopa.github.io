@@ -5,7 +5,7 @@
    <br/>
    <br/>
    <h1><font face="Times new roman"><font color="black"><font size="6"><b>CEO:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Trevor Squire</i>
-   <br/>
+   <img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="50" width="100"/>
    <br/>
    <br/>
    <h2><font face="Times new roman"><font color="black"><font size="6"><b>Supply Chains Manager:
