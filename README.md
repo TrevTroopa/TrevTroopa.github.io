@@ -8,7 +8,7 @@
    <br/>
    <br/>
    <br/>
-   <h2><font face="Times new roman"><font color="black"><font size="6"><b>Supply Chains Manager:
+   <h2><font face="Times new roman"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Joshua Ginste</i>
    <br/>
    <br/>
    <br/>
