@@ -5,7 +5,7 @@
    <br/>
    <br/>
    <h1><font face="Times new roman"><font color="black"><font size="6"><b>CEO:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Trevor Squire</i>
-   <p> align="center">My story</p>
+   <h2 align="center">My story</h2>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
    <br/>
    <h2><font face="Times new roman"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Joshua Ginste</i>
