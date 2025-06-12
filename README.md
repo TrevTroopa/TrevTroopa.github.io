@@ -21,5 +21,5 @@
    <br/>
    <br/>
    <h5><font face="Times new roman"><font color="black"><font size="6"><b>Marketing:</b><font face="Times new roman"><font color="blue"><font size="5"><i>  Angel Gatoto</i>
-   <img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="100" width="100"/>
+   <h6><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="150" width="150"/>
 
