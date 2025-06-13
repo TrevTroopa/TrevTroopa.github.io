@@ -5,10 +5,10 @@
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/Medicine-Symbol.jpg?raw=true" width="150" align="right"/></p>
    <br/>
    <br/>
-   <h1><font face="Roboto"><font size="6"><font color="black">CEO:<font face="Geaorgia, Arial"><font color="black"><font size="5"><i>Gavin Harper</i>
+   <h1><font face="Roboto"><font size="6"><font color="black">CEO:<font face="Georgia, Arial"><font color="black"><font size="5"><i>Gavin Harper</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_4393.jpeg?raw=true" height="250" width="200" align="center"/></p>
       <p><font size="4">Gavin Harper is the current CEO of Eloheh company. After graduating from Purdue University, he lead his group of innovators to develop the next generational breakthrough in healthcare and technology. He wanted to make a brand that aimed to find the next big breakthroughs in technology that, not only would change the healthcare system for the better, but would also be accessible to everyone in need. Harper's biggest priorities for this company was compassion for its consumers, having innovative technology that could change healthcare forever, and making these products accessible for all. Harper gathered the best Purdue students he knew to help him make this dream a reality.
-   <p></p>Some of Harpers skills include:
+   <p></p>Some of Harpers best skills include:
 <body>
    <ul>
       <li>Organization</li>
@@ -17,18 +17,26 @@
    </ul>
 </body>
    <br/>
-   <br/>
-   <h2><font face="Roboto"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Joshua Ginste</i>
+   <h2><font face="Roboto"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Georgia, Arial"><font color="black"><font size="5"><i>Joshua Ginste</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_5411.jpeg?raw=true" height="250" width="200"/></p>
+      <p><font size="4">Joshua Ginste is currently the head of supply chains management and operations here at Eloheh. He decided to join Gavin Harper and help him fulfill his ideas of creating a better world. Graduating from Purdue University, Joshua had gained the knowledge and skills of managing a companies products/services. He wished to help Gavin with managing any supplies needed for the products, as well as finding the best technology to help innovate the next generation of medicine. Joshua has had much experience in this field, as he was head of the Project Managment club at Purdue, as well as having internships at both Microsoft and Rolls-Royce. Thanks to his experiance, hard work, and dedication, Joshua fulfills all the requirements for being the best supply chains managager this comapny could ask for. 
+   <p></p>Some of Ginstes best skills include:
+<body>
+   <ul>
+      <li>Strategic Thinking</li>
+      <li>Organization</li>
+      <li>Problem Solving</li>
+   </ul>
+</body>
    <br/>
    <br/>
-   <h3><font face="Roboto"><font color="black"><font size="6"><b>Research and Development:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Trevor Squire</i>
+   <h3><font face="Roboto"><font color="black"><font size="6"><b>Research and Development:</b><font face="Georgia, Arial"><font color="black"><font size="5"><i>Trevor Squire</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
    <br/>
    <br/>
-   <h4><font face="Roboto"><font color="black"><font size="6"><b>Engineering and Technology:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Chase Hamdan</i>
+   <h4><font face="Roboto"><font color="black"><font size="6"><b>Engineering and Technology:</b><font face="Georgia, Arial"><font color="black"><font size="5"><i>Chase Hamdan</i>
    <br/>
    <br/>
-   <h5><font face="Roboto"><font color="black"><font size="6"><b>Marketing:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Angel Gatoto</i>
+   <h5><font face="Roboto"><font color="black"><font size="6"><b>Marketing:</b><font face="Georgia, Arial"><font color="black"><font size="5"><i>Angel Gatoto</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="250" width="200"/></p>
 
