@@ -64,6 +64,6 @@
 </body>
 <br/>
 <br/>
-<p><font size="3"><a href="mailto:tsquire@purdue.edu?subject=Contact me">Contact me</a></p>
+<p><font size="3">Have questions? <a href="mailto:tsquire@purdue.edu?subject=Contact me">Contact me</a>
    
 
