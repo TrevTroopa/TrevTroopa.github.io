@@ -18,7 +18,8 @@
    </ul>
 </body>
    <br/>
-   <h2><font face="Roboto"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Georgia, Arial"><font color="black"><font size="5"><i>Joshua Ginste</i>
+   <h2><font face="Roboto"><font color="black"><font size="6"><b>Supply Chains Manager:</b>
+      <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Joshua Ginste</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_5411.jpeg?raw=true" height="250" width="200"/></p>
       <p><font size="4">Joshua Ginste is currently the head of supply chains management and operations here at Eloheh. He decided to join Gavin Harper and help him fulfill his ideas of creating a better world. Graduating from Purdue University, Joshua had gained the knowledge and skills of managing a companies products/services. He wished to help Gavin with managing any supplies needed for the products, as well as finding the best technology to help innovate the next generation of medicine. Joshua has had much experience in this field, as he was head of the Project Managment club at Purdue, as well as having internships at both Microsoft and Rolls-Royce. Thanks to his experiance, hard work, and dedication, Joshua fulfills all the requirements for being the best supply chains managager this comapny could ask for. 
    <p></p>Some of Ginstes best skills include:
@@ -31,13 +32,16 @@
 </body>
    <br/>
    <br/>
-   <h3><font face="Roboto"><font color="black"><font size="6"><b>Research and Development:</b><font face="Georgia, Arial"><font color="black"><font size="5"><i>Trevor Squire</i>
+   <h3><font face="Roboto"><font color="black"><font size="6"><b>Research and Development:</b>
+      <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Trevor Squire</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
    <br/>
    <br/>
-   <h4><font face="Roboto"><font color="black"><font size="6"><b>Engineering and Technology:</b><font face="Georgia, Arial"><font color="black"><font size="5"><i>Chase Hamdan</i>
+   <h4><font face="Roboto"><font color="black"><font size="6"><b>Engineering and Technology:</b>
+      <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Chase Hamdan</i>
    <br/>
    <br/>
-   <h5><font face="Roboto"><font color="black"><font size="6"><b>Marketing:</b><font face="Georgia, Arial"><font color="black"><font size="5"><i>Angel Gatoto</i>
+   <h5><font face="Roboto"><font color="black"><font size="6"><b>Marketing:</b>
+      <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Angel Gatoto</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="250" width="200"/></p>
 
