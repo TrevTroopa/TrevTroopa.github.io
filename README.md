@@ -32,16 +32,25 @@
 </body>
    <br/>
    <br/>
-   <h3><font face="Roboto"><font color="black"><font size="6"><b>Research and Development:</b>
+   <h3><font face="Roboto"><font color="black"><font size="6"><b>Research and Development Manager:</b>
       <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Trevor Squire</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
+          <p><font size="4">Trevor Squire is the current head of research and development here at Eloheh. Like Joshua, he was close with Gavin Harper when they spent their years together at Purdue University. Once Trevor graduated from Purdue, he joined Gavin Harper and helped him achieve his dream. With a knack for organization and curiosity, Trevor began to find ways of making it easier and cheaper to make this new medicine. He would find and leatest and greatest technology of today and find ways to improve on it. He is the one who found and brought together the best scientists and engineers to help him achieve Harpers goal. With a passion for information technology and research, Trevor brings together the skills and technology needed to make this healthcare organization greater than any other.
+   <p></p>Some of Squires best skills include:
+<body>
+   <ul>
+      <li>Interpersonal skills</li>
+      <li>Technology</li>
+      <li>Critical thinking</li>
+   </ul>
+</body>
    <br/>
    <br/>
-   <h4><font face="Roboto"><font color="black"><font size="6"><b>Engineering and Technology:</b>
+   <h4><font face="Roboto"><font color="black"><font size="6"><b>Engineering and Technology Manager:</b>
       <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Chase Hamdan</i>
    <br/>
    <br/>
-   <h5><font face="Roboto"><font color="black"><font size="6"><b>Marketing:</b>
+   <h5><font face="Roboto"><font color="black"><font size="6"><b>Marketing Manager:</b>
       <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Angel Gatoto</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="250" width="200"/></p>
 
