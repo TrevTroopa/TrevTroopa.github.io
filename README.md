@@ -22,7 +22,7 @@
    <br/>
    <br/>
    <h3><font face="Roboto"><font color="black"><font size="6"><b>Research and Development:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Trevor Squire</i>
-   <p><img src="" height="250" width="200"/></p>
+   <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_2409.JPG?raw=true" height="250" width="200"/></p>
    <br/>
    <br/>
    <h4><font face="Roboto"><font color="black"><font size="6"><b>Engineering and Technology:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Chase Hamdan</i>
