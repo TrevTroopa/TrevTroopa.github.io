@@ -62,5 +62,8 @@
       <li>Influencer intuition</li>
    </ul>
 </body>
+<br/>
+<br/>
+<p><a href="mailto:tsquire@purdue.edu?subject=Contact me">tsquire@purdue.edu</a></p>
    
 
