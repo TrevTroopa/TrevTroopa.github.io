@@ -1,7 +1,7 @@
 # Meet our Team!
 <html>
 <head>
-   <img src="
+   <img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/Medicine-Symbol.jpg?raw=true" width="150" align="right"/>
    <p><font face="Times new roman"><font color="red"><font size="5"><i>Want to meet the team behind it all?</i>
    <br/>
    <br/>
