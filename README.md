@@ -62,6 +62,14 @@
       <li>Influencer intuition</li>
    </ul>
 </body>
+      <p><font size="4"><font color="black"><font face="Roboto"> Our number one priority is making sure that our care is affordable and accesible. Please use <a href="https://affordablehealthinsurancetoday.com/health-insurance.php?pub_id=532567604&cq_src=microsoft_ads&cq_cmp=532567604&cq_con=1361197976392940&cq_term=affordablehealthinsurancetoday.com&cq_med=&cq_plac=&cq_net=o&cq_pos=&cq_plt=gp&msclkid=4df1fe3984c61263d3b79675002e1158&utm_source=bing&utm_medium=cpc&utm_campaign=PMax%20-%20All%20Topics&utm_term=affordablehealthinsurancetoday.com&utm_content=General%20-%20Males"target="_blank">this link</a> to find the best health insurance for you! If you are struggling to figure out the website, here are some easy steps to access it:
+<body>
+   <ol>
+      <li>Put in your Zip Code</li>
+      <li>Put in your personal information</li>
+      <li>Find the health insurance that best fits you!</li>
+   </ol>
+</body>         
 <br/>
 <br/>
 <p><font size="3"><font color="black"><font face="Roboto">Have questions? <a href="mailto:tsquire@purdue.edu?subject=Contact me">Contact me</a>
