@@ -48,6 +48,7 @@
    <br/>
    <h4><font face="Roboto"><font color="black"><font size="6"><b><u>Engineering and Technology Manager:</u>
       <p><font face="Georgia, Arial"><font color="black"><font size="5"><b><i>Chase Hamdan</i>
+   <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/image2.jpeg?raw=true" height="250" width="200"/></p>
          <p><font size="4">Chase Hamdan graduated from Purdue University with all the neccesary skills to be one of the best engineers anyone could ask for. Gavin Harper recruited him for his intellect and skills because he knew Hamdan would be such a valuable asset for Eloheh. Hamdan was very good with technology but was completely new to the idea of healthcare technology. Never the less, Hamdan was an quick learner and was able to create some of our most highly advanced healthcare technology and machines. Many of our products came from his machines, thanks to his quick learning abilities. Chase Hamdan is one of our most valuable members here at Eloheh, as most of the products we make would not exist without his knowledge and skills.
    <p></p><font size="5"><font color="#330066">Some of Hamdans best skills include:
 <body>
