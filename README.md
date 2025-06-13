@@ -22,10 +22,10 @@
       <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Joshua Ginste</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_5411.jpeg?raw=true" height="250" width="200"/></p>
       <p><font size="4">Joshua Ginste is currently the head of supply chains management and operations here at Eloheh. He decided to join Gavin Harper and help him fulfill his ideas of creating a better world. Graduating from Purdue University, Joshua had gained the knowledge and skills of managing a companies products/services. He wished to help Gavin with managing any supplies needed for the products, as well as finding the best technology to help innovate the next generation of medicine. Joshua has had much experience in this field, as he was head of the Project Managment club at Purdue, as well as having internships at both Microsoft and Rolls-Royce. Thanks to his experiance, hard work, and dedication, Joshua fulfills all the requirements for being the best supply chains managager this comapny could ask for. 
-   <p></p>Some of Ginstes best skills include:
+   <p></p><font size="5">Some of Ginstes best skills include:
 <body>
    <ul>
-      <li><font size="4">Strategic Thinking</li>
+      <li>Strategic Thinking</li>
       <li>Organization</li>
       <li>Problem Solving</li>
    </ul>
