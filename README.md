@@ -62,6 +62,8 @@
       <li>Influencer intuition</li>
    </ul>
 </body>
+<br/>
+<br/>
       <p><font size="5"><font color="black"><font face="Roboto"> Our number one priority is making sure that our care is affordable and accesible. Please use <a href= "affordablehealthinsurancetoday.com" target="_blank"> this link </a> to find the best health insurance for you! If you are struggling to figure out the website, here are some easy steps to access it:
 <body>
    <ol>
