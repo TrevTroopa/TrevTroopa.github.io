@@ -64,9 +64,9 @@
 </body>
 <br/>
 <br/>
-<p><font size="3">Have questions? <a href="mailto:tsquire@purdue.edu?subject=Contact me">Contact me</a>
+<p><font size="3"><font face="Roboto">Have questions? <a href="mailto:tsquire@purdue.edu?subject=Contact me">Contact me</a>
 <body>
-   <p><font size="4"><font face="Georgia, Arial">Last modified on: <script>document.write(document.lastModified);</script>
+   <p><font size="4"><font face="Roboto">Last modified on: <script>document.write(document.lastModified);</script>
 
    
 
