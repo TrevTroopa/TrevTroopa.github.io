@@ -66,7 +66,7 @@
 <br/>
 <p><font size="3">Have questions? <a href="mailto:tsquire@purdue.edu?subject=Contact me">Contact me</a>
 <body>
-   <p><font size="4">Last modified on: <script>document.write(document.lastModified);</script>
-</body>
+   <p><font size="4"><font face="Georgia, Arial">Last modified on: <script>document.write(document.lastModified);</script>
+
    
 
