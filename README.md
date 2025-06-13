@@ -18,7 +18,7 @@
    <br/>
    <br/>
    <h2><font face="Roboto"><font color="black"><font size="6"><b>Supply Chains Manager:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Joshua Ginste</i>
-   <p><img src="</p>
+   <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_5411.jpeg?raw=true" height="250" width="200"/></p>
    <br/>
    <br/>
    <h3><font face="Roboto"><font color="black"><font size="6"><b>Research and Development:</b><font face="Times new roman"><font color="blue"><font size="6"><i>Gavin Harper</i>
