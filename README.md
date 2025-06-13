@@ -25,7 +25,7 @@
    <p></p>Some of Ginstes best skills include:
 <body>
    <ul>
-      <li>Strategic Thinking</li>
+      <li><font size="4">Strategic Thinking</li>
       <li>Organization</li>
       <li>Problem Solving</li>
    </ul>
