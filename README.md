@@ -53,8 +53,8 @@
    <h5><font face="Roboto"><font color="black"><font size="6"><b><u>Marketing Manager:</u>
       <p><font face="Georgia, Arial"><font color="black"><font size="5"><i>Angel Gatoto</i>
    <p><img src="https://github.com/TrevTroopa/TrevTroopa.github.io/blob/main/IMG_9973.PNG?raw=true" height="250" width="200"/></p>
-         <p><font size="4">Trevor Squire is the current head of research and development here at Eloheh. Like Joshua, he was close with Gavin Harper when they spent their years together at Purdue University. Once Trevor graduated from Purdue, he joined Gavin Harper and helped him achieve his dream. With a knack for organization and curiosity, Trevor began to find ways of making it easier and cheaper to make this new medicine. He would find and leatest and greatest technology of today and find ways to improve on it. He is the one who found and brought together the best scientists and engineers to help him achieve Harpers goal. With a passion for information technology and research, Trevor brings together the skills and technology needed to make this healthcare organization greater than any other.
-   <p></p>Some of Gatotos <b>best</b> skills include:
+         <p><font size="4">Angel Gatoto currently the head of the marketing team here at Eloheh. Angel was hand picked by Gavin Harper to lead a group of artistic minds to find ways to promote the brand of Eloheh. Graduated from Purdue University, Angel was one of the best marketers in the school, having awards and accomplishments in the field. She not only found ways of connecting with her audiences on an emotional level, but she was able to share her skills with her colleagues to make ideas and stories more influential. Angel brought in some of the best marketers she knew in order to help her bring the name Eloheh to the world. Thanks to Angels skills and dedication to the company, we now have the name "Eloheh" being spread from all over the world. 
+   <p></p>Some of Gatotos best skills include:
 <body>
    <ul>
       <li>Communication</li>
