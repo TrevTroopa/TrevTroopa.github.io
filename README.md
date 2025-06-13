@@ -1,6 +1,7 @@
 # Meet our Team!
 <html>
 <head>
+   <img src="
    <p><font face="Times new roman"><font color="red"><font size="5"><i>Want to meet the team behind it all?</i>
    <br/>
    <br/>
