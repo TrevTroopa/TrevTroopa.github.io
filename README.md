@@ -48,6 +48,15 @@
    <br/>
    <h4><font face="Roboto"><font color="black"><font size="6"><b><u>Engineering and Technology Manager:</u>
       <p><font face="Georgia, Arial"><font color="black"><font size="5"><b><i>Chase Hamdan</i>
+         <p><font size="4">Trevor Squire is the current head of research and development here at Eloheh. Like Joshua, he was close with Gavin Harper when they spent their years together at Purdue University. Once Trevor graduated from Purdue, he joined Gavin Harper and helped him achieve his dream. With a knack for organization and curiosity, Trevor began to find ways of making it easier and cheaper to make this new medicine. He would find and leatest and greatest technology of today and find ways to improve on it. He is the one who found and brought together the best scientists and engineers to help him achieve Harpers goal. With a passion for information technology and research, Trevor brings together the skills and technology needed to make this healthcare organization greater than any other.
+   <p></p><font size="5"><font color="#330066">Some of Hamdans best skills include:
+<body>
+   <ul>
+      <li>Information technology</li>
+      <li>Engineering technology</li>
+      <li>Computer science technology</li>
+   </ul>
+</body>
    <br/>
    <br/>
    <h5><font face="Roboto"><font color="black"><font size="6"><u>Marketing Manager:</u>
