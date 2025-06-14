@@ -81,7 +81,8 @@
       <li>Put in your personal information</li>
       <li>Find the health insurance that best fits you!</li>
    </ol>
-</body>         
+</body> 
+   <p><font size="5"><font color="black"><font face="Roboto"> If there is ever an emergancy, please dial 911. If you would like to send us your emergancy contact information, please fill out this form <a href="</p>
 <br/>
 <br/>
 <p><font size="3"><font color="black"><font face="Roboto">Have questions? <a href="mailto:tsquire@purdue.edu?subject=Contact me">Contact me</a>
